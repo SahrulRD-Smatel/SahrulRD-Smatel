@@ -24,3 +24,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahrulrd-smatel&" alt="sahrulrd-smatel" /></p>
 
+---
+
+<div style="text-align: center;">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTE1dXJpbW5mcDg4YTAzMXJ6bXk3MnowemszcXk3ZTl0b3NleGE3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bAQH7WXKqtIBrPs7sR/giphy.gif" alt="Thank You" width="400"/>
+</div>
